@@ -4,3 +4,5 @@ def fibo(my_number):
         return [0]
     elif my_number == 2:
         return 1
+    elif my_number == 3:
+        return 1
