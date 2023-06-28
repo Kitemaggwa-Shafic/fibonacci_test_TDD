@@ -20,3 +20,7 @@ def test_fibonacci_2():
 # Third Test
 def test_fibonacci_3():
     assert fibo(3) == 1
+
+# FOurth Test
+def test_fibonacci_4():
+    assert fibo(4) == 2
