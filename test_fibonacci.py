@@ -12,3 +12,6 @@ def test_fibonacci_1():
     assert fibo(1) == [0]
 # THis test FAILED, no fibo function to use
 #  To PASS the test we created a fibo function to use in assert, and imported
+
+def test_fibonacci_2():
+    assert fibo(2) == 1
